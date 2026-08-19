@@ -1,0 +1,15 @@
+{
+  "name": "My Subjects",
+  "short_name": "My Subjects",
+  "description": "Study notes, folders, and AI tutor across all subjects.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eee4cf",
+  "theme_color": "#2f4a3c",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
